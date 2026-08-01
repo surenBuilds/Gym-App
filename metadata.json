@@ -1,0 +1,7 @@
+{
+  "name": "AI Fitness Coach MVP",
+  "description": "An AI-powered Fitness Coaching MVP with intelligent weekly split generation, YouTube video demos, form analysis & rep counter, and visual progress diffing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
