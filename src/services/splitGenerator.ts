@@ -108,7 +108,7 @@ function createRestDay(day_of_week: DayOfWeek): WorkoutSplitDay {
   return {
     day_of_week,
     day_name_hy: ARMENIAN_DAYS[day_of_week],
-    title,
+    title: 'Հանգստի օր / Rest Day',
     is_rest_day: true,
     muscle_groups: [],
     exercise_ids: []
